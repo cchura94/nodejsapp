@@ -1,0 +1,22 @@
+{
+  "name": "pruebanpm",
+  "version": "1.0.0",
+  "description": "Mi paquete te ayudará al manejo de rutas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "cristian": "node index.js"
+  },
+  "keywords": [
+    "prueba"
+  ],
+  "author": "cristian",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
