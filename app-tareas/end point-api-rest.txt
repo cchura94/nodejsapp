@@ -1,0 +1,9 @@
+**** API REST ****
+
+Metodo  |   Rutas(url)  | Controller
+GET         /tarea        tareaController.listar
+POST        /tarea        tareaController.guardar
+GET         /tarea/:id    tareaController.mostrar
+PUT         /tarea/:id    tareaController.modificar
+
+DELETE      /tarea/:id    tareaController.eliminar
